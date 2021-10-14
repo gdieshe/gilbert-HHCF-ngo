@@ -1,5 +1,6 @@
 groceries=$1000
-gas=$500
+gas=$55ii0
 volunteering=$750
-as=$500
-volunteering=$750
+
+ 
+
